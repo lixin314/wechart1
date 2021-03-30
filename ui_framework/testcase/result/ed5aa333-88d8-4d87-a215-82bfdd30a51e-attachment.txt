@@ -1,0 +1,2 @@
+D:\gongju\scrcpy-win64-v1.17\scrcpy-server: 1 file pushed, 0 skipped. 1.5 MB/s (34930 bytes in 0.022s)
+[server] INFO: Device: OPPO PCRT00 (Android 7.1.2)

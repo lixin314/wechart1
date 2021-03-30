@@ -1,0 +1,10 @@
+search:
+  - action: find_and_sendkeys
+    locator: xpath
+    value: //*[@resource-id='com.xueqiu.android:id/search_input_text']
+    context: alibaba
+  - action: finds_and_click
+    locator: xpath
+    value: //*[@text='阿里巴巴']
+    num: 0
+
